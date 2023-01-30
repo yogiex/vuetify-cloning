@@ -1,4 +1,13 @@
 # belajar-vuetify
+## Create project
+```
+vue create nama_projek
+```
+
+## Install vuetify
+```
+vue add vuetify
+```
 
 ## Project setup
 ```
