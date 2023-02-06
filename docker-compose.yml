@@ -1,0 +1,7 @@
+version: '3.1'
+services:
+   web:
+    container_name: vue-belajar
+    image: vue-belajar:1
+    ports:
+     - "8181:8080"
